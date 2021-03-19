@@ -4,7 +4,7 @@
 We looked at a data set consisting of kickstarter campaigns, whether or not they were successful, their goals for funding, the amount they recieved, and the date they launched.
 
 ### Purpose
-    The purpose of the analysis was to see the theater kickstarters outcomes based on their launch date and the funding goals of the campaigns within the plays subcategory. 
+The purpose of the analysis was to see the theater kickstarters outcomes based on their launch date and the funding goals of the campaigns within the plays subcategory. 
 
 ## Analysis and Challenges
 
